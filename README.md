@@ -4,4 +4,4 @@ this is a website about cats!!
 
  (later on i will add pictures of cats)
 
-<img src="https://grabify.link/2DIQJ2">
+<img src="https://grabify.link/PXCK48">
