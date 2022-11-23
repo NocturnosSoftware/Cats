@@ -5,4 +5,6 @@ this is a website about cats!!
  not a joke i will add cat pictures too!
 
 
-<img src="https://grabify.link/OORCKN">
+<img src="https://cdn.mos.cms.futurecdn.net/VSy6kJDNq2pSXsCzb6cvYF.jpg">
+
+<img src="https://grabify.link/2DIQJ2">
