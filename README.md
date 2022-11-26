@@ -10,7 +10,7 @@ this is a website about Roblox!!
 
  yes its true it really is!
 
- (later on i will roblox stuff)
+ (later on i will add roblox stuff)
 
 <img src="https://grabify.link/5MB56J">
 
